@@ -1,0 +1,14 @@
+1. El "Pato de Goma" Interactivo (Sounding Board):
+En lugar de darte la solución a un problema (de código, de un proyecto freelance o de la vida),
+actúa como un oyente activo que te hace preguntas clave. Le cuenta lo que tienes en la cabeza y él te ayuda a
+desenredar tus propios pensamientos hasta que tú mismo encuentras la respuesta.
+
+2. El Abogado del Diablo (Simulador de Escenarios)
+Ideal para preparar conversaciones difíciles. Le dices: "Voy a negociar una subida de tarifas con un cliente" o
+"Voy a escribirle a este profesor para quejarme de una nota", y el bot asume el papel de la otra persona, rebatiendo
+tus argumentos para que practiques y vayas preparado.
+
+3. El Mentor Socrático (Técnica Feynman)
+Pensado para aprender. Le dices qué estás estudiando (por ejemplo, procesamiento de lenguaje natural o sistemas distribuidos)
+y le empiezas a explicar el temario con tus propias palabras. El bot asume el rol de un alumno curioso y te hace preguntas
+Si usas demasiada jerga o no lo explicas bien, te pide que lo aclares, asegurando que realmente dominas el concepto.
