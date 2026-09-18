@@ -1,0 +1,87 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.pyc
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+.env/
+ENV/
+env.bak/
+venv.bak/
+
+# Distribución / empaquetado
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+wheels/
+
+# Tests y cobertura
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ========================
+# IDEs y editores
+# ========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ========================
+# macOS
+# ========================
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# ========================
+# NLP / Datos
+# ========================
+# Modelos grandes entrenados
+*.pkl
+*.pickle
+*.model
+*.bin
+*.h5
+*.hdf5
+
+# Datasets grandes (descomenta si aplica)
+# data/raw/
+# data/processed/
+
+# Logs
+*.log
+logs/
+
+# ========================
+# Miscelánea
+# ========================
+*.tmp
+*.bak
+*.orig
+Thumbs.db
